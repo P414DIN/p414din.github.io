@@ -6,9 +6,6 @@
 		<loc>https://p414din.github.io/drivers.html</loc>
 	</url>
 	<url>
-		<loc>https://p414din.github.io/414.html</loc>
-	</url>
-	<url>
 		<loc>https://p414din.github.io/list.html</loc>
 	</url>
 	<url>
@@ -49,5 +46,8 @@
 	</url>
 	<url>
 		<loc>https://p414din.github.io/help.html</loc>
+	</url>
+	<url>
+		<loc>https://p414din.github.io/index.html</loc>
 	</url>
 </urlset>
