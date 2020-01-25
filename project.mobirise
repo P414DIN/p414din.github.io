@@ -1,7 +1,11 @@
 {
   "settings": {
     "name": "414",
+<<<<<<< HEAD
     "currentPage": "soft.html",
+=======
+    "currentPage": "list.html",
+>>>>>>> 238a4b111b2137cd3b39b069a59a15d777dda22c
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
